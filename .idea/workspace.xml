@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="496abe58-5322-4ab1-9ec5-19714fae9826" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sigir2020-eComWorkshop-LTM-for-product-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dev/data.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rt-polarity.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/data.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train/data.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/bin/gdeval.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/bin/trec_eval" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/extract_docs_from_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/modeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/modeling_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/rerank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/bert/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/arci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/arcii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/cdssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/convknrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/drmm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/drmmtks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/dssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/duet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/knrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/matchpyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/mvlstm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/mz_models/requirments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainer/utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trainer/mz_models/arci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/arci.py" />
+        <option value="$PROJECT_DIR$/arcii.py" />
+        <option value="$PROJECT_DIR$/cdssm.py" />
+        <option value="$PROJECT_DIR$/convknrm.py" />
+        <option value="$PROJECT_DIR$/drmm.py" />
+        <option value="$PROJECT_DIR$/drmmtks.py" />
+        <option value="$PROJECT_DIR$/dssm.py" />
+        <option value="$PROJECT_DIR$/duet.py" />
+        <option value="$PROJECT_DIR$/knrm.py" />
+        <option value="$PROJECT_DIR$/matchpyramid.py" />
+        <option value="$PROJECT_DIR$/mvlstm.py" />
+        <option value="$PROJECT_DIR$/trainer/bert/task.py" />
+        <option value="$PROJECT_DIR$/trainer/bert/rerank.py" />
+        <option value="$PROJECT_DIR$/trainer/bert/data.py" />
+        <option value="$PROJECT_DIR$/trainer/bert/modeling.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/arci.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/arcii.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/cdssm.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/convknrm.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/drmm.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/drmmtks.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/dssm.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/duet.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/knrm.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/matchpyramid.py" />
+        <option value="$PROJECT_DIR$/trainer/mz_models/mvlstm.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="131" />
+    <option name="y" value="126" />
+    <option name="width" value="1503" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sigir2020-eComWorkshop-LTM-for-product-search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sigir2020-eComWorkshop-LTM-for-product-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sigir2020-eComWorkshop-LTM-for-product-search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sigir2020-eComWorkshop-LTM-for-product-search" type="462c0819:PsiDirectoryNode" />
+              <item name="trainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trainer/bert" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trainer" />
+      <recent name="$PROJECT_DIR$/trainer/mz_models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trainer/bert" />
+      <recent name="$PROJECT_DIR$/trainer/mz_models" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/trainer" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.arci">
+    <configuration name="SIGIR_eCom_Workshop_gitthub_repo" type="PythonConfigurationType" factoryName="Python">
+      <module name="sigir2020-eComWorkshop-LTM-for-product-search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/sigir_data_challenge/venv_1/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sigir2020-eComWorkshop-LTM-for-product-search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainer/mz_models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer/mz_models/arci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SIGIR_eCom_Workshop_gitthub_repo" />
+      <item itemvalue="Python.arci" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.arci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496abe58-5322-4ab1-9ec5-19714fae9826" name="Default Changelist" comment="" />
+      <created>1594028976290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594028976290</updated>
+      <workItem from="1594028978700" duration="6561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6561000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="131" y="126" width="1503" height="876" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32908162" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908162" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.34438777" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trainer/mz_models/arci.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sigir2020_eComWorkshop_LTM_for_product_search$arci.coverage" NAME="arci Coverage Results" MODIFIED="1594037215709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainer/mz_models" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/test/data.dill">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dev/data.dill">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/requirments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/bin/gdeval.pl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1117">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/rerank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/extract_docs_from_index.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2053">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/bert/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/arcii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/cdssm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/convknrm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/drmmtks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/dssm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/duet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/knrm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/matchpyramid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/mvlstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/drmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/mz_models/arci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
